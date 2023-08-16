@@ -2,11 +2,11 @@
 <h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambhargav10&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambhargav10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashtijare&label=Profile%20views&color=0e75b6&style=flat" alt="akashtijare" /> </p>
 
-- 👨‍💻 All of my projects are available at shubhambhargav10.github.io
+- 👨‍💻 All of my projects are available at akashtijare.github.io
 
-- 💬 Ask me about *react,HTML,CSS, and javascript*
+- 💬 Ask me about *react, HTML, CSS, and javascript*
 
 - 📫 How to reach me *akashtijare708374@gmail.com*
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/akash-tijare-0b3a641b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/shubhambhargav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubh" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/akashtijare708374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="akash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
