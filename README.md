@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shubham Bhargaw</h1>
+<h1 align="center">Hello 👋, I'm Akash Tijare</h1>
 <h3 align="center">FullStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
@@ -8,15 +8,15 @@
 
 - 💬 Ask me about *react,HTML,CSS, and javascript*
 
-- 📫 How to reach me *shubhambhargav10@gmail.com*
+- 📫 How to reach me *akashtijare708374@gmail.com*
 
-- 📄 Know about my experiences https://drive.google.com/file/d/18U3ofDj0adzWDgms1exw5UDelxjDRTyo/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1Xoo_RZ8UsfSK4bkBRBUKGR4uP6XRhCZL/view?usp=sharing
 
-- ⚡ Fun fact *I love to draw*
+- ⚡ Fun fact *I love to play CHESS*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shubham-bhargav-6820a071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-tijare-0b3a641b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubh" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/shubhambhargav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shubh" height="30" width="40" /></a>
 </p>
 
